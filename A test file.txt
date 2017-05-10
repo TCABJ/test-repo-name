@@ -1,5 +1,1 @@
 This is the first line of the test file
-
-This is another line added on "a-test-branch"
-
-Okay, I have added another line of text!
